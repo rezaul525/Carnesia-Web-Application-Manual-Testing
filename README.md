@@ -2,7 +2,8 @@
 
 #Test-Plan-Screenshot-For-Carnesia
 
-![TestPlan](https://github.com/rezaul525/Carnesia-Web-Application-Manual-Testing/assets/59533863/d7a9843e-29c7-46c4-a03b-d2b0669ab24e)
+![Testpla_final](https://github.com/rezaul525/Carnesia-Web-Application-Manual-Testing/assets/59533863/bc4a4604-eae6-478c-a6d6-f2001eb85dfc)
+
 
 # Mind-Mapping-with-Xmind
 ![MindMap](https://github.com/rezaul525/Carnesia-Web-Application-Manual-Testing/assets/59533863/56f82d29-3b0e-49bf-b966-3506f5b8fd98)
